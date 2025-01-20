@@ -1,0 +1,2 @@
+Prefix plugins/BLASTFreq/example/
+Plugin BLASTFreq inputfile testData_blast.txt outputfile MostFrequentBLAST.txt
